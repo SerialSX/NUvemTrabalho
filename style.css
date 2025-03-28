@@ -24,7 +24,6 @@ body {
     border-radius: 8px;
 }
 
-/* Estilos para as abas */
 .nav-tabs {
     border-bottom: 2px solid #09004d;
 }
@@ -57,7 +56,6 @@ body {
     border-color: transparent;
 }
 
-/* Estilos para os cards de produto */
 .product-card {
     padding: 25px;
     border: 1px solid #ddd;
